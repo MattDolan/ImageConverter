@@ -22,3 +22,11 @@ C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csprojResolveAssem
 C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.frmMain.resources
 C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.Properties.Resources.resources
 C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csproj.GenerateResource.Cache
+C:\GitHub\ImageConverter\vs2010\obj\x86\Release\ImageConverter.exe
+C:\GitHub\ImageConverter\vs2010\obj\x86\Release\ImageConverter.pdb
+C:\GitHub\ImageConverter\vs2010\bin\Release\ImageConverter.exe
+C:\GitHub\ImageConverter\vs2010\bin\Release\ImageConverter.pdb
+C:\GitHub\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csprojResolveAssemblyReference.cache
+C:\GitHub\ImageConverter\vs2010\obj\x86\Release\ImageConverter.frmMain.resources
+C:\GitHub\ImageConverter\vs2010\obj\x86\Release\ImageConverter.Properties.Resources.resources
+C:\GitHub\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csproj.GenerateResource.Cache
