@@ -1,0 +1,24 @@
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\bin\Release\ImageConverter.exe
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\bin\Release\ImageConverter.pdb
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Release\ImageConverter.frmMain.resources
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Release\ImageConverter.Properties.Resources.resources
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csproj.GenerateResource.Cache
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Release\ImageConverter.exe
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Release\ImageConverter.pdb
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csprojResolveAssemblyReference.cache
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\obj\x86\Release\ImageConverter.exe
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\obj\x86\Release\ImageConverter.pdb
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\bin\Release\ImageConverter.exe
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\bin\Release\ImageConverter.pdb
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csprojResolveAssemblyReference.cache
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\obj\x86\Release\ImageConverter.frmMain.resources
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\obj\x86\Release\ImageConverter.Properties.Resources.resources
+C:\ProjectsCorpv\Tools\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csproj.GenerateResource.Cache
+C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.exe
+C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.pdb
+C:\Stuff\ImageConverter\vs2010\bin\Release\ImageConverter.exe
+C:\Stuff\ImageConverter\vs2010\bin\Release\ImageConverter.pdb
+C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csprojResolveAssemblyReference.cache
+C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.frmMain.resources
+C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.Properties.Resources.resources
+C:\Stuff\ImageConverter\vs2010\obj\x86\Release\ImageConverter.csproj.GenerateResource.Cache

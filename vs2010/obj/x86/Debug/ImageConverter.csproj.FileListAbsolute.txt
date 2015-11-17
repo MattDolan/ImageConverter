@@ -1,0 +1,7 @@
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\bin\Debug\ImageConverter.exe
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\bin\Debug\ImageConverter.pdb
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Debug\ImageConverter.Properties.Resources.resources
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Debug\ImageConverter.csproj.GenerateResource.Cache
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Debug\ImageConverter.exe
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Debug\ImageConverter.pdb
+C:\ProjectsCorpv\ATT West\ImageConverter\vs2010\obj\x86\Debug\ImageConverter.frmMain.resources
