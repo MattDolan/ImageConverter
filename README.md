@@ -5,7 +5,8 @@
 This tool uses GhostScript and ImageMagick to allow the converstion of image files from and to many formats.
 
 **Read about the input formats possible.**  
-http://www.imagemagick.org/script/formats.php
+ImageMagick supports reading over 100 major file formats (not including sub-formats).  
+http://www.imagemagick.org/script/formats.php  
 
 **These are the output formats .**  
 BMP
