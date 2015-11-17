@@ -19,7 +19,7 @@ TIFF
 NOTE: These are the only formats that I coded for. You can read about the other formats here.  
 http://www.imagemagick.org/Usage/formats/#summary
 
-**Here you can read about the options you can use to `change` the image during conversion.**  
+**Here you can read about the options you can use to "change" the image during conversion.**  
 http://www.imagemagick.org/script/convert.php
 
 The following GhostScript and ImageMagick installs were used for this tool.
