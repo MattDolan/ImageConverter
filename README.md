@@ -2,7 +2,7 @@
 
 ![alt tag](https://raw.github.com/MattDolan/ImageConverter/master/vs2010/MainForm.png)
 
-This tool uses GhostScript and ImageMagick to allow the converstion of image files from and to many formats.
+This tool uses GhostScript and ImageMagick to allow the conversion of image files from and to many formats.
 
 **Read about the possible input formats.**  
 ImageMagick supports reading over 100 major file formats (not including sub-formats).  
